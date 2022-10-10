@@ -46,3 +46,6 @@ While super easy to get up and running and an excellent environment for all the 
 ## Contributions & PRs welcome!
 
 To provide the best possible learning content to our students, please do not hesitate to open Github issues or submit PRs if you catch any typos in those mini-projects.
+
+## Candy's stuff below
+Testing git workflow between git bash and uploading files to web UI
